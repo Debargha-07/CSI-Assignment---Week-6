@@ -45,7 +45,7 @@ model-evaluation-hyperparameter-tuning/
 │
 ├── main.py # Complete ML pipeline
 ├── README.md # Project documentation
-├── outputs/ # Saved results & visualizations
+├── Outputs/ # Saved results & visualizations
 │ ├── classification_report.txt
 │ ├── confusion_matrix_lr.png
 │ ├── confusion_matrix_rf.png

@@ -113,7 +113,19 @@ Each model's confusion matrix is saved separately for clarity.
 
 ## ⚙️ How to Run
 
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/yourusername/model-evaluation-hyperparameter-tuning.git
-   cd model-evaluation-hyperparameter-tuning
+1. Download or clone the repository  
+2. Open the folder in VS Code or any Python IDE  
+3. Install dependencies (like numpy,
+pandas,
+matplotlib,
+seaborn,
+scikit-learn)  
+4. Run the script
+```
+python main.py
+```
+5. Check the Outputs/ folder for all saved results
+
+
+
+
